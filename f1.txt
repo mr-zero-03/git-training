@@ -1,6 +1,6 @@
 No sé qué poner
 
-Cambio 1
+Cambio 1 desde github
 
 Cambio 2 desde local
 
